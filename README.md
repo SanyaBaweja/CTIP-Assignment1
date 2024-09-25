@@ -1,4 +1,4 @@
-# CTIP-Assignment1
+# CTIP-Assignment2
 
 # Weather Prediction and Energy Usage Forecasting
 
